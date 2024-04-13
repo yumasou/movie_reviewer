@@ -1,0 +1,5 @@
+export const movie_list="https://api.themoviedb.org/3/genre/movie/list"
+export const top_rated_movie="https://api.themoviedb.org/3/movie/top_rated"
+export const now_playing_movie="https://api.themoviedb.org/3/movie/now_playing"
+export const upcomming_movie="https://api.themoviedb.org/3/movie/upcoming"
+export const popular_movie="https://api.themoviedb.org/3/movie/popular"
